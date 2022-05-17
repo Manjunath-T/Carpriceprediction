@@ -1,0 +1,3 @@
+1. Create A New Environment (carprediction) : conda create -n carprediction python=3.7
+2. From working directory (launch jupyter notebook)
+3. 
